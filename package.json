@@ -1,0 +1,27 @@
+{
+  "name": "worker-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1134901269@qq.com",
+  "keywords": [
+    "Web",
+    "Worker",
+    "Simple"
+  ],
+  "bugs": {
+    "url": "https://github.com/liubon/worker-queue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com:liubon/worker-queue.git"
+  },
+  "homepage": "https://github.com/liubon/worker-queue#readme",
+  "license": "ISC",
+  "dependencies": {
+    "simple-web-worker": "^1.2.0"
+  }
+}
