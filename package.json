@@ -1,5 +1,5 @@
 {
-  "name": "worker-queue",
+  "name": "simple-webworker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,16 +10,18 @@
   "keywords": [
     "Web",
     "Worker",
-    "Simple"
+    "Simple",
+    "vue",
+    "react"
   ],
   "bugs": {
-    "url": "https://github.com/liubon/worker-queue/issues"
+    "url": "https://github.com/liubon/simple-webworker/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com:liubon/worker-queue.git"
+    "url": "git+https://git@github.com:liubon/simple-webworker.git"
   },
-  "homepage": "https://github.com/liubon/worker-queue#readme",
+  "homepage": "https://github.com/liubon/simple-webworker#readme",
   "license": "ISC",
   "dependencies": {
     "simple-web-worker": "^1.2.0"
